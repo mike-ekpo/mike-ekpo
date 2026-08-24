@@ -50,7 +50,7 @@ Rather than only studying concepts, I like creating practical lab environments w
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/michael-ekpo-a920783b5">
+  <a href="https://www.linkedin.com/in/michael-ekpo-a920783b5/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.youtube.com/@MichaelEkpo-m5o">
