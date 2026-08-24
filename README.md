@@ -56,7 +56,7 @@ Rather than only studying concepts, I like creating practical lab environments w
   <a href="https://www.youtube.com/@MichaelEkpo-m5o">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="mike-ekpo">
+  <a href="https://github.com/mike-ekpo/mike-ekpo">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
